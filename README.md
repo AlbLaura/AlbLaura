@@ -38,7 +38,7 @@
 
 ### <img src="https://media.giphy.com/media/5WNhxOEzGbTKo/giphy.gif" width="50"/> Certificados
 <!-- Badges de certificados -->
-|[![](https://img.shields.io/badge/Argentina_Programa_3.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/AlbLaura/AlbLaura/main/Certificado_YoProgramo-1.png)|[![](https://img.shields.io/badge/EFSet_English-C1-green?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Intermediate%20Python-1.jpg)|
+|[![](https://img.shields.io/badge/Argentina_Programa_3.0-blue?style=for-the-badge)](https://raw.githubusercontent.com/AlbLaura/AlbLaura/main/Certificado_YoProgramo-1.png)|[![](https://img.shields.io/badge/EFSet_English-C1-green?style=for-the-badge)](https://cert.efset.org/nhns5L)|
 |---|---|
 
 ### <img src="https://media.giphy.com/media/5WNhxOEzGbTKo/giphy.gif" width="50"/> Contactame!
